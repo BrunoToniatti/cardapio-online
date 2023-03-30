@@ -104,7 +104,7 @@ cd cardápio-online
 * Gabriel Varuzza
 * João Pedro Moreira
 
-### Observações
+## Observações
 * Esse projeto está em fase de desenvolvimento e pode ter bugs.
 * Agradecemos qualquer contribuição ou sugestão de melhoria.
 * Entre em contato se tiver dúvidas ou precisar de ajuda.
