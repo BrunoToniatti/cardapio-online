@@ -1,3 +1,5 @@
+! [Logo do cardápio] (https://github.com/BrunoToniatti/cardapio-online/blob/main/cover.jpg)
+
 # Cardápio Online
 
 Esse é um projeto de um cardápio online que permite que os usuários 
@@ -103,6 +105,6 @@ cd cardapio-online
 * João Pedro Moreira
 
 ### Observações
-* Esse projeto está em fae de desenvolvimento e pode ter bugs.
+* Esse projeto está em fase de desenvolvimento e pode ter bugs.
 * Agradecemos qualquer contribuição ou sugestão de melhoria.
 * Entre em contato se tiver dúvidas ou precisar de ajuda.
