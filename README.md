@@ -1,4 +1,4 @@
-! [Logo do cardápio] (https://raw.githubusercontent.com/BrunoToniatti/cardapio-online/main/cover.jpg)
+! [Logo do cardápio] (https://github.com/BrunoToniatti/cardapio-online/blob/main/logo.png)
 
 # Cardápio Online
 
