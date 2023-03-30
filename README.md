@@ -86,7 +86,7 @@ do usuário ao fazer um pedido em um restaurante.
 
 
 
-## Como executar o projeto  
+## Como executar o projeto.
 
 1. Clone o repositório para o seu computador:
 ```
