@@ -10,7 +10,7 @@ do usuário ao fazer um pedido em um restaurante.
 
 ## Funcionalidades
 
-* Poder observar nossos itens e chamar o gaçon (por enquanto estamos no BETA então não acrescentamos muitos itens)
+* Poder observar nossos itens e chamar o gaçom (por enquanto estamos no BETA então não acrescentamos muitos itens)
 
 ## Tecnologias usadas
 
