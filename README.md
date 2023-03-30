@@ -95,7 +95,7 @@ git clone https://github.com/BrunoToniatti/cardapio-online.git
 
 2. Navegue até a pasta do projeto:
 ```
-cd cardapio-online
+cd cardápio-online
 ```
 
 ## Autores
