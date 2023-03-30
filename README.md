@@ -98,6 +98,8 @@ git clone https://github.com/BrunoToniatti/cardapio-online.git
 cd cardapio-online
 ```
 
+3. Abra o arquivo index.html que é onde contém a página.
+
 ## Autores
 
 * Bruno Ferrari Toniatti
